@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*
- * main - main function
- *
+/**
+ * main - main block
+ * Description:  prints the alphabet in lowercase.
  * Return: 0
  */
 int main(void)
