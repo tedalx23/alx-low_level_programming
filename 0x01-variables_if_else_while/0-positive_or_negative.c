@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+/* betty style doc for function goes there */
 /**
  * main - Entry point
  *
